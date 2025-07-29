@@ -1,20 +1,21 @@
-# Welcome to your Lovable project
+A lightweight and powerful case management platform designed to help legal practitioners manage their cases, clients, documents, billing, and firm operations efficiently.
 
-## Project info
+✨ Features
+⚖️ Matter Management – Track ongoing and closed matters with status updates.
 
-**URL**: https://lovable.dev/projects/5ccfc191-0904-45aa-803a-5e1206010b06
+👤 Client Management – Maintain detailed client profiles and case associations.
 
-## How can I edit this code?
+📁 Document Handling – Upload, organize, and access documents securely.
 
-There are several ways of editing your application.
+🧾 Billing & Invoicing – Generate invoices and track payments with ease.
 
-**Use Lovable**
+📅 Calendar & Reminders – Manage court dates, appointments, and internal deadlines.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5ccfc191-0904-45aa-803a-5e1206010b06) and start prompting.
+📞 Client Communication – Log interactions and maintain communication history.
 
-Changes made via Lovable will be committed automatically to this repo.
+🏢 Firm Settings – Manage team members, roles, permissions, and firm branding.
 
-**Use your preferred IDE**
+
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -60,10 +61,9 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+ Use Cases
+Solo lawyers and small law firms
 
-Simply open [Lovable](https://lovable.dev/projects/5ccfc191-0904-45aa-803a-5e1206010b06) and click on Share -> Publish.
+Legal aid clinics
 
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+In-house legal teams
